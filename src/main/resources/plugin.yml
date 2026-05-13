@@ -1,0 +1,5 @@
+name: RebelsRTP
+version: '1.0-SNAPSHOT'
+main: rebelmythik.rebelsRTP.RebelsRTP
+api-version: '1.21'
+authors: [ RebelMythik ]
